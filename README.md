@@ -33,7 +33,7 @@
 
     **Thanks to Li et al. for their contributions. If you use this dataset, please cite their work.**
 
-For easily reproducing, we have uploaded all the above data in 
+For easily reproducing, we have uploaded all the above data in [Google Drive link](https://drive.google.com/drive/folders/1cqVHjju2nODHz3_miwFH1ez9QYVMJbPW?usp=sharing)
 ## QuickStart
 To evaluate teacher model, check out the folder config_teacher and the following command line:
 ```bash
