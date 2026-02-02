@@ -5,7 +5,7 @@
 ![Framework](./overall_tmp.png)
 
 ## Requirements
-1. Environment: The main mandatory dependency versions are as follows:  
+1. Environment: the main mandatory dependency versions are as follows:  
     ```
     python=3.10.19
     pytorch_lightning==1.9.0  
@@ -48,4 +48,4 @@ python evaluate.py --config config_kd/training_qata.yaml
 We release our checkpoints at this [Google Drive link](https://drive.google.com/drive/folders/1YT1nGsoDBHrZ3eGObg17tNIQMafSl1me?usp=sharing)
 
 ## Acknowledgements
-This codebase is built based on [GuideDecoder](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023). We thank their authors for making the source code publicly available.
+This codebase is built based on [LanGuideMedSeg-MICCAI2023](https://github.com/Junelin2333/LanGuideMedSeg-MICCAI2023). We thank their authors for making the source code publicly available.
